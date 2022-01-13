@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IBL_Notification</string>
+    <string name="notification_channel_followers">notification_channel_followers</string>
+</resources>

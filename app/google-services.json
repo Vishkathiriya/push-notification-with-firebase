@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924772156235",
+    "firebase_url": "https://iblnotification.firebaseio.com",
+    "project_id": "iblnotification",
+    "storage_bucket": "iblnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924772156235:android:e32c10fc61543e0c",
+        "android_client_info": {
+          "package_name": "com.example.ibl_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924772156235-m5l8gkhqboenm74o9putqbtug1lbgc3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibl_notification",
+            "certificate_hash": "16c0074db740dcfa049f3d7559d59c38e1accdb1"
+          }
+        },
+        {
+          "client_id": "924772156235-uo6filg2l8cjf3224j20k4k92u5nnqjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4V9zsyMQzbZ6UTHke9A6J5iMm0j8I1_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924772156235-uo6filg2l8cjf3224j20k4k92u5nnqjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
